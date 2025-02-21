@@ -1,7 +1,9 @@
-<h1 align="center">NvChad</h1>
+<h1 align="center">Welcome to my NvChad fork</h1>
+
+This configuration set serves as a centralized repository for preferred NvChad modifications.
 
 <div align="center">
-	<a href="https://nvchad.com/">Home</a>
+	<a href="https://nvchad.com/">Forked from: NvChad</a>
   <span> • </span>
     	<a href="https://nvchad.com/docs/quickstart/install">Install</a>
   <span> • </span>
